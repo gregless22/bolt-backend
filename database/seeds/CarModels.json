@@ -1,0 +1,39 @@
+
+
+  {
+    "tesla": {
+      "model-x": "premium",
+      "model-s": "elite"
+    },
+
+    "toyota": {
+      "prius-c": "select",
+      "prius-v": "select",
+      "prius": "select",
+      "camry_hybrid": "select"
+    },
+
+    "honda": {
+      "civic_hybrid": "select"
+    },
+
+    "hyundai": {
+      "ioniq_electric": "premium",
+      "ioniq_plug_in_hybrid": "select",
+      "ioniq_hydryd": "select"
+    },
+
+    "nissan": {
+      "leaf": "select"
+    },
+
+    "mitsubishi": {
+      "imiev": "select"
+    },
+
+    "bmw": {
+      "i3": "premium",
+      "i8": "elite"
+    }
+  }
+
