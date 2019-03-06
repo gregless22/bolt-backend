@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class CarsTableSeeder extends Seeder
+class AddressTableSeeder extends Seeder
 {
  
   public function run()
